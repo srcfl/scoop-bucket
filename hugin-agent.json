@@ -1,16 +1,16 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Thin local agent for Hugin — scans LAN, talks Modbus, runs Lua drivers.",
   "homepage": "https://github.com/srcfl/hugin-agent",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/srcfl/hugin-agent/releases/download/v0.1.0/hugin-agent_Windows_x86_64.zip",
-      "hash": "63c41cc06584b639f433a6cf4adfc93feabaa964f7ed897f03215eebb0680e9d"
+      "url": "https://github.com/srcfl/hugin-agent/releases/download/v0.1.1/hugin-agent_Windows_x86_64.zip",
+      "hash": "8a79897684098d100981ea912059d378558a7b78bcd60bb4596be041bc8266eb"
     },
     "arm64": {
-      "url": "https://github.com/srcfl/hugin-agent/releases/download/v0.1.0/hugin-agent_Windows_arm64.zip",
-      "hash": "48914043af2352c278ccad7e6237e0e281ba9413c4d4505bc4131c8599ca64d5"
+      "url": "https://github.com/srcfl/hugin-agent/releases/download/v0.1.1/hugin-agent_Windows_arm64.zip",
+      "hash": "22a143f3c27917925ba53e2e818b13fe9045f1516346aae1b3451b498ce6ab69"
     }
   },
   "bin": "hugin-agent.exe",
